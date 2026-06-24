@@ -1,0 +1,23 @@
+# Data and local storage
+data/
+*.csv
+*.parquet
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
